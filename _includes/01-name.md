@@ -1,6 +1,6 @@
 # First header
 
-This is my name #kzubrinic
+This is my name @kzubrinic
 
 ## Second header
 
